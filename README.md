@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ```bash
 python -m spacy download en_core_web_trf
 ```
+pip install --force-reinstall streamlit
 
 ## Running the Application
 
